@@ -1,0 +1,10 @@
+DEBUG:root:debug
+INFO:root:info
+WARNING:root:warning
+ERROR:root:error
+CRITICAL:root:critical
+we a\hame logging massafgrg: 2026-11-07 17:02:52,332DEBUG - debug
+we a\hame logging massafgrg: 2026-11-07 17:02:52,333INFO - info
+we a\hame logging massafgrg: 2026-11-07 17:02:52,333WARNING - warning
+we a\hame logging massafgrg: 2026-11-07 17:02:52,333ERROR - error
+we a\hame logging massafgrg: 2026-11-07 17:02:52,333CRITICAL - critical
